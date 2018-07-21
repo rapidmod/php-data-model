@@ -11,12 +11,6 @@
       "name": "Rapidmod"
     }
   ],
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/rapidmod"
-    }
-  ],
   "prefer-stable": true,
 
   "autoload": {
